@@ -9,3 +9,7 @@ before_install:
 script:
     - docker/run_docker.sh -t
     - docker/run_docker.sh -l
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ac6ebcd1... Sync from release-20200720
